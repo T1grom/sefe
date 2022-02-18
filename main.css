@@ -1,0 +1,112 @@
+ 
+ body {
+     background-color: #fff8f8;
+     color: #0f141e;
+     font-size: 16px;
+     font-weight: normal;
+     font-family: 'Roboto', sans-serif;
+}
+.milka{        
+width: 180px;
+border-radius: 28px;
+box-shadow: -2px -1px 20px 0px;
+
+
+}
+@media (max-width: 700px)
+ {.padla { 
+     text-align: center;
+     display: block;
+ }
+ }
+.rog{        
+    width: 180px;
+    border-radius: 100px;
+    box-shadow: -2px -1px 20px 0px;
+    }
+  .shru{        
+        width: 180px;
+        border-radius: 100px;
+        box-shadow: -2px -1px 20px 0px;
+        }
+        .MIHMIH{        
+            width: 180px;
+            border-radius: 100px;
+            box-shadow: -2px -1px 20px 0px;
+            }
+ 
+ 
+  .padla {
+      max-width: 100%;
+      margin: auto;
+  }
+  a {
+      color: #0f141e;
+      text-decoration: none;
+  }
+  .card {
+     
+      padding: 15px 20px;
+      margin-bottom: 20px;
+      border-radius: 20px;
+  }
+  .bg-red {
+      background: #beecee;
+  }
+  .bg-green {
+    background: #e5ffe7;
+}
+.bg-yellow {  padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+    
+    background: #f1e8ba;
+}
+
+.bg-gr {
+  background: #ffe5e5;
+} 
+.bg-g {
+  background: #dbcad7;
+}
+.bg-shu {
+    background: #678283;
+  }
+  .card h2 {margin-bottom: 10px;}
+  .list {
+padding: 15px;
+  }
+  .listt {
+    padding: 15px;
+      }
+      .list li {
+          margin-bottom: 10px;
+          color: #6204f89c;
+      }
+      .listt a {
+        margin-bottom: 10px;
+        color: #6204f89c;
+    }
+  
+.table td {
+    padding-bottom: 10px;
+
+}
+.table th {
+    padding-bottom: 10px; }
+
+    .table td:nth-child(2), .table td:nth-child(3), .table td:nth-child(4) {
+        color: #020202; }
+        .table tr:nth-child(odd) {background: #369194;}
+        .table td:nth-child(2), .table td:nth-child(3), .table td:nth-child(4) {
+            color: #6204f8; }
+            .table tr:nth-child(even) {background: #73cbce;}
+            .bg-g li {
+               margin-bottom: 10px; 
+               padding-bottom: 5px;
+               border-bottom: 1px solid #ccc;
+            }
+            .padla h2 {
+                text-align: center;
+            }
